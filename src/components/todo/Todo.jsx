@@ -1,5 +1,5 @@
 import './todo.css'
-import TodoForm from '../todoForm/TodoForm'
+import TodoForm from '../todoForm/TodoForm.jsx'
 
 export default function Todo() {
 	return (

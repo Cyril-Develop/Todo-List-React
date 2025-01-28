@@ -1,4 +1,4 @@
-import Todo from './components/todo/Todo';
+import Todo from './components/todo/Todo.jsx';
 
 function App() {
   return (
